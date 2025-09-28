@@ -1,6 +1,6 @@
 # Introduction-to-Helm-chart
 
-* Open your Vs cdoe cli
+* Open your Vs code cli
   <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0acc2ccd-403b-4b89-aeec-93559473b430" />
 
 
